@@ -3,6 +3,6 @@
 Our cool upstream demo exercise.
   
 The group members are:
-  - Jaritz
-  - Bauer
+  - Jaritz (Owner, jarthc20)
+  - Bauer ()
   - Zrikl
