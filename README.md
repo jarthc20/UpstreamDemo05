@@ -4,5 +4,5 @@ Our cool upstream demo exercise.
   
 The group members are:
   - Jaritz (Owner, jarthc20)
-  - Bauer ()
-  - Zrikl
+  - Bauer (emmaBBauer)
+  - Zrikl (n1wram)
